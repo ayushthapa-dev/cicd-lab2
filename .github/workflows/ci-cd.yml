@@ -37,3 +37,4 @@ jobs:
         with:
           name: webpage
           path: wrong-file.html
+          if-no-files-found: error
